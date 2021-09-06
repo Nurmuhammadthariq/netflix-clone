@@ -23,8 +23,8 @@
 
 
 .loginScreen__body {
-    position: absolute;
-    top: 30%;
+    position: fixed;
+    top: 9rem;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
